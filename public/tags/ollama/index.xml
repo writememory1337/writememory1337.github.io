@@ -1,0 +1,19 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ollama - Tag - writememory1337 ⚙️</title>
+        <link>http://localhost:1313/tags/ollama/</link>
+        <description>Ollama - Tag - writememory1337 ⚙️</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/ollama/" rel="self" type="application/rss+xml" /><item>
+    <title>Créer un chatbot de type RAG (3/3) : Pour aller plus loin</title>
+    <link>http://localhost:1313/posts/rag-3/</link>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>writememory1337</name>
+    </author><guid>http://localhost:1313/posts/rag-3/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/rag-3/vector3.jpg" referrerpolicy="no-referrer">
+            </div>Dans cet article bonus à notre série sur les Chatbot RAG nous passerons en revue différentes possiblités d&rsquo;amélioration.
+Selon les besoins de vos utilisateurs, il est possible de privilégier la sécurité, la privacy ou la simplicité.
+Notez que certains modèles open source peuvent être assez gourmands et que pour héberger ces solutions en local, du matériel performant est requis.
+Transition vers des solutions open sourceCertains de vos utilisateurs auront peut-être des contraintes spécifiques en matière de respect des données et de la vie privée, il est possible de déployer chez vos utilisateurs un système de Chatbot RAG indépendant d&rsquo;openAI, de Pinecone et de MongoDB à l&rsquo;aide, par exemple d&rsquo;un conteneur faisant tourner Ollama, PostgreSQL avec pgvector, et le récent modèle Llama3.]]></description>
+</item></channel>
+</rss>

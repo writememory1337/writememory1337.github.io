@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Vulgarisation - Tag - writememory1337 ⚙️</title>
+        <link>http://localhost:1313/tags/vulgarisation/</link>
+        <description>Vulgarisation - Tag - writememory1337 ⚙️</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 12 Aug 2024 23:21:24 &#43;0200</lastBuildDate><atom:link href="http://localhost:1313/tags/vulgarisation/" rel="self" type="application/rss+xml" /><item>
+    <title>RAG Chatbot: Késako ? (1/3)</title>
+    <link>http://localhost:1313/posts/rag-1/</link>
+    <pubDate>Mon, 12 Aug 2024 23:21:24 &#43;0200</pubDate><author>
+        <name>writememory1337</name>
+    </author><guid>http://localhost:1313/posts/rag-1/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/rag-1/vector1.jpg" referrerpolicy="no-referrer">
+            </div>Cet article est le premier d&rsquo;une série dans laquelle je détaillerai la création d&rsquo;un chatbot de type RAG (Génération Augmentée par la Récupération), particulièrement utile pour les requêtes en rapport avec des sujets bien spécifiques (documentation interne de l&rsquo;entreprise, documents administratifs, etc.)
+Dans ce premier article, nous détaillerons le fonctionnement d&rsquo;un système , en nous concentrant particulièrement sur le traitement des documents PDF.
+Comment ça marche ?Le processus peut être divisé en deux phases principales:]]></description>
+</item></channel>
+</rss>

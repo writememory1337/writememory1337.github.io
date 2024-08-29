@@ -1,0 +1,24 @@
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xhtml="http://www.w3.org/1999/xhtml"
+    ><url>
+            <loc>http://localhost:1313/categories/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/rag-3/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/categories/documentation/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/foss/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/ollama/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/pgvector/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/postgresql/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/</loc><lastmod>2024-08-15T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/aws-s3/</loc><lastmod>2024-08-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/mongodb/</loc><lastmod>2024-08-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/node.js/</loc><lastmod>2024-08-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/openai/</loc><lastmod>2024-08-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/pinecone/</loc><lastmod>2024-08-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/rag-2/</loc><lastmod>2024-08-13T00:00:00&#43;00:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/configuration/</loc><lastmod>2024-08-12T23:21:24&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/installation/</loc><lastmod>2024-08-12T23:21:24&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/posts/rag-1/</loc><lastmod>2024-08-12T23:21:24&#43;02:00</lastmod></url><url>
+            <loc>http://localhost:1313/tags/vulgarisation/</loc><lastmod>2024-08-12T23:21:24&#43;02:00</lastmod></url></urlset>

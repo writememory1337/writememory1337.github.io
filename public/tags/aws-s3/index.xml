@@ -1,0 +1,18 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>AWS S3 - Tag - writememory1337 ⚙️</title>
+        <link>http://localhost:1313/tags/aws-s3/</link>
+        <description>AWS S3 - Tag - writememory1337 ⚙️</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/aws-s3/" rel="self" type="application/rss+xml" /><item>
+    <title>RAG Chatbot: Mise en place du Projet (2/3)</title>
+    <link>http://localhost:1313/posts/rag-2/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>writememory1337</name>
+    </author><guid>http://localhost:1313/posts/rag-2/</guid>
+    <description><![CDATA[<div class="featured-image">
+                <img src="/posts/rag-2/ada.jpg" referrerpolicy="no-referrer">
+            </div>Dans cet article, nous détaillerons la mise en place du RAG, on y apprendra à
+Extraire du texte des fichiers PDF Générer des embeddings avec OpenAI Les Stocker dans Pinecone. J&rsquo;ai réalisé plusieurs projets avec ces techos, certains utilisaient Nuxt d&rsquo;autres Next.
+Cet article détaillera une utilisation plus générale. Le but de l&rsquo;article est simplement d&rsquo;expliquer le fonctionnement des différentes librairies dont nous aurons besoin. Au lecteur d&rsquo;ajuster le code à ses besoins (par exemple si vous avez implémenté l&rsquo;authentification et la multi-tenancy).]]></description>
+</item></channel>
+</rss>

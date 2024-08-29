@@ -1,0 +1,77 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Tag - writememory1337 ⚙️</title>
+        <link>http://localhost:1313/tags/</link>
+        <description>Tags - Tag - writememory1337 ⚙️</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</lastBuildDate><atom:link href="http://localhost:1313/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Foss</title>
+    <link>http://localhost:1313/tags/foss/</link>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/foss/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Ollama</title>
+    <link>http://localhost:1313/tags/ollama/</link>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/ollama/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Pgvector</title>
+    <link>http://localhost:1313/tags/pgvector/</link>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/pgvector/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>PostgreSQL</title>
+    <link>http://localhost:1313/tags/postgresql/</link>
+    <pubDate>Thu, 15 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/postgresql/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>AWS S3</title>
+    <link>http://localhost:1313/tags/aws-s3/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/aws-s3/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>MongoDB</title>
+    <link>http://localhost:1313/tags/mongodb/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/mongodb/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Node.js</title>
+    <link>http://localhost:1313/tags/node.js/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/node.js/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>OpenAI</title>
+    <link>http://localhost:1313/tags/openai/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/openai/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Pinecone</title>
+    <link>http://localhost:1313/tags/pinecone/</link>
+    <pubDate>Tue, 13 Aug 2024 00:00:00 &#43;0000</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/pinecone/</guid>
+    <description><![CDATA[]]></description>
+</item><item>
+    <title>Configuration</title>
+    <link>http://localhost:1313/tags/configuration/</link>
+    <pubDate>Mon, 12 Aug 2024 23:21:24 &#43;0200</pubDate><author>
+        <name>Author</name>
+    </author><guid>http://localhost:1313/tags/configuration/</guid>
+    <description><![CDATA[]]></description>
+</item></channel>
+</rss>
